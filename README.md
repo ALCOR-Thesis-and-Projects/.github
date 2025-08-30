@@ -1,2 +1,0 @@
-# .github
-Main profile repository
