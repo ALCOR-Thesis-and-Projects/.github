@@ -60,9 +60,10 @@ Always remember to include your supervisor among the contributors to the LaTeX d
 
 ## 📬 Support & Contacts
 
-For technical questions about repository setup, lab resources or academic guidance, reach out to your [supervisor](schiavella@diag.uniroma1.it).
+For technical questions about repository setup, lab resources or academic guidance, reach out to your supervisor at _schiavella@diag.uniroma1.it_.
 
 ---
 
 *Happy researching! 🚀*
+
 
