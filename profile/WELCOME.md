@@ -45,6 +45,7 @@ For important guides on using ALCOR lab resources, visit our comprehensive **"Ho
 ### 📑 **Thesis Template**
 For thesis writing, use the official LaTeX template:
 **🔗 [SapThesis Template](https://ctan.org/pkg/sapthesis)**
+Always remember to include your supervisor among the contributors to the LaTeX document.
 
 ---
 
@@ -59,10 +60,9 @@ For thesis writing, use the official LaTeX template:
 
 ## 📬 Support & Contacts
 
-For technical questions about repository setup or lab resources, consult the [How-To guide](https://sites.google.com/diag.uniroma1.it/how-to-alcor/eng?authuser=0).
-
-For academic guidance, reach out to your assigned supervisor.
+For technical questions about repository setup, lab resources or academic guidance, reach out to your [supervisor](schiavella@diag.uniroma1.it).
 
 ---
 
 *Happy researching! 🚀*
+
